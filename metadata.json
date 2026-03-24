@@ -1,0 +1,7 @@
+{
+  "name": "CCVideira Águas Claras",
+  "description": "Site institucional moderno e acolhedor da igreja CCVideira Águas Claras em Taguatinga.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
